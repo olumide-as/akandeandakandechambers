@@ -19,9 +19,9 @@ const Landing = () => {
                     </p>
 
                     <div>
-                        <button className="mt-3 px-10 py-3 rounded-full text-white bg-orange-500 hover:bg-orange-600 active:bg-orange-700 duration-150 outline-none shadow-md focus:shadow-none focus:ring-2 ring-offset-2 ring-orange-600">
+                        <a href="../#contact" className="mt-3 px-10 py-3 rounded-full text-white bg-orange-500 hover:bg-orange-600 active:bg-orange-700 duration-150 outline-none shadow-md focus:shadow-none focus:ring-2 ring-offset-2 ring-orange-600">
                             Contact Our Attorneys
-                        </button>
+                        </a>
                     </div>
                 </div>
 
